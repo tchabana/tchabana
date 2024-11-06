@@ -1,17 +1,3 @@
-<!--
-**tchabana/tchabana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi there 👋🏿, my name is Hafizh TCHABANA <img alt="GitHub followers" src="https://img.shields.io/github/followers/toureydaou?style=flat"></h1>
 
@@ -33,7 +19,7 @@ or Outlook <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blu
 </p>
 <p>🌐 Follow me on: <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftour%25C3%25A9-ydaou-teouri%2F">
 .</p>
-<p>🌐 Follow me on: <img alt="Static Badge" src="https://www.youtube.com/@labyrinthe_num%C3%A9rique">
+<p>🌐  <a  href="https://www.youtube.com/@labyrinthe_num%C3%A9rique">Follow me on Youtube</a>
 .</p>
 
 <h1>🛠 Languages and Tools</h1>
