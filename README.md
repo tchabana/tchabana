@@ -64,7 +64,7 @@ or Outlook <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blu
   </a>
   
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats-one-delta-92.vercel.app/api/top-langs/?username=toureydaou&layout=compact" />
+    <img align="center" src="https://github-readme-stats-one-delta-92.vercel.app/api/top-langs/?username=tchabana&layout=compact" />
   </a>
 
 </div>
