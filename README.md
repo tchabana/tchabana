@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" height=250/>
-</div>
-
 <h1 align="center">Hi there 👋🏿, my name is Hafizh TCHABANA <img alt="GitHub followers" src="https://img.shields.io/github/followers/toureydaou?style=flat"></h1>
 
 <div align="center">
@@ -38,6 +32,8 @@ or Outlook <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blu
 <p>📱 You can call me on : +228 92193983 | Whatsapp: <img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp-green?style=flat&logo=whatsapp&logoColor=white&labelColor=%230cb33e&color=%230cb33e&link=https%3A%2F%2Fwa.me%2F%2B22893358485">
 </p>
 <p>🌐 Follow me on: <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftour%25C3%25A9-ydaou-teouri%2F">
+.</p>
+<p>🌐 Follow me on: <img alt="Static Badge" src="https://img.shields.io/youtube/comments/:videoId">
 .</p>
 
 <h1>🛠 Languages and Tools</h1>
