@@ -33,7 +33,7 @@ or Outlook <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blu
 </p>
 <p>🌐 Follow me on: <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftour%25C3%25A9-ydaou-teouri%2F">
 .</p>
-<p>🌐 Follow me on: <img alt="Static Badge" src="https://img.shields.io/youtube/comments/:videoId">
+<p>🌐 Follow me on: <img alt="Static Badge" src="https://www.youtube.com/@labyrinthe_num%C3%A9rique">
 .</p>
 
 <h1>🛠 Languages and Tools</h1>
