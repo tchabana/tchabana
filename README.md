@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi there 👋🏿, my name is Hafizh TCHABANA <img alt="GitHub followers" src="https://img.shields.io/github/followers/tchabana?style=flat"></h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 <h1>👨🏿‍💻 About me</h1>
 
 I am a Full Stack developper from Togo.
