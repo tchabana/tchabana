@@ -26,7 +26,6 @@ or Outlook <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blu
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height=50 width=50 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=50 height=50/>
-  <img src="https://youteam.io/blog/wp-content/uploads/2021/11/react-native-logo.png" width=50 height=50/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width=50 height=50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width=50 height=50/>
   
