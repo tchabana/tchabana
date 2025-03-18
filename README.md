@@ -5,8 +5,6 @@
 
 I am a Full Stack developper from Togo.
 
-<p>💡 I am passionate by coding especially in web developpment 💻 and mobile 📱.</p>
-<p>🕵🏾‍♂️ I am interested in web and mobile application projects. I want to have the opportunity to use my skills but also to learn even more.</p>
 <p>🫱🏻‍🫲🏿 Contact me at any time, for any part-time or full-time collaboration.</p>
 <p>📨 Reach me by Gmail: <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red&link=mailto%3Attoureydaou%40gmail.com">
 or Outlook <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blue?style=flat&logo=microsoft%20outlook&logoColor=white&labelColor=%23328afc&color=%23328afc&link=mailto%3Atoure-ydaou.teouri%40ifnti.com">
