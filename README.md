@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <code>&lt;tchabana&gt; Hafizh &lt;/tchabana&gt;</code>
+  <code>&lt;name&gt; tchabana &lt;/name&gt;</code>
 </h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tchabana&label=Profile%20views&color=0e75b6&style=flat" alt="tchabana" />
