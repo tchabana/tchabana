@@ -1,7 +1,11 @@
 
-<h1 align="center"> <code> <tchabana/> </code> <p align="left">
+<h1 align="center">
+  <code>&lt;tchabana&gt; Hafizh &lt;/tchabana&gt;</code>
+</h1>
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=tchabana&label=Profile%20views&color=0e75b6&style=flat" alt="tchabana" />
-</p></h1>
+</p>
+
 
 I am a Full Stack developper.
 
