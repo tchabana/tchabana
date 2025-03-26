@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi there 👋🏿, my name is Hafizh TCHABANA <img alt="GitHub followers" src="https://img.shields.io/github/followers/tchabana?style=flat"></h1>
+<h1 align="center">Hi there 👋🏿, my name is Hafizh TCHABANA <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tchabana&label=Profile%20views&color=0e75b6&style=flat" alt="tchabana" />
+</p></h1>
 
 I am a Full Stack developper.
 
