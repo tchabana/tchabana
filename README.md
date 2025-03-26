@@ -31,6 +31,10 @@ or Outlook <img alt="Static Badge" src="https://img.shields.io/badge/Outlook-blu
 
 <h1>📈 My stats</h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tchabana&label=Profile%20views&color=0e75b6&style=flat" alt="tchabana" />
+</p>
+
 <div align"center>
     
   <a href="https://github.com/anuraghazra/github-readme-stats">
