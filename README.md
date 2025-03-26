@@ -1,5 +1,5 @@
 
-<h1 align="center">  <tchabana/> <p align="left">
+<h1 align="center"> <code> <tchabana/> </code> <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tchabana&label=Profile%20views&color=0e75b6&style=flat" alt="tchabana" />
 </p></h1>
 
