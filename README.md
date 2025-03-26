@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋🏿, my name is Hafizh TCHABANA <p align="left">
+<h1 align="center">👋🏿, Hafizh TCHABANA <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tchabana&label=Profile%20views&color=0e75b6&style=flat" alt="tchabana" />
 </p></h1>
 
